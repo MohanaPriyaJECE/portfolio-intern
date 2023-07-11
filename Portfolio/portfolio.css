@@ -94,7 +94,7 @@ a:focus {
     margin-left: 150px;
     background: transparent;
     border-radius: 56px;
-    transition:.4s;
+    transition: .4s;
 }
 .side-img:hover{
     transform: rotate(6deg);
